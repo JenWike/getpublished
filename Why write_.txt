@@ -1,0 +1,39 @@
+Why write?
+Feedback from managers and individual contributors
+
+A documentation lead says...
+“In my org, one thing we look at for promotion to the principal level is whether someone has given talks at conferences, has been published, and is seen as thought leader in their area of technological focus. It's a way of demonstrating technical achievement and credibility through outside validation.”
+“As people develop into higher levels of mastery, I think it's important for them to connect and share with the broader community. It helps them get feedback from different perspectives as well as to establish their reputation as a thought leader. I think it's good for the individual as well as for the company.”
+
+An open source strategy consultant says…
+
+“To be honest, in the past 5+ years, I haven't needed to convince any developers reporting to me in some way that writing or being published is a good idea. The team cultures inherently supported and communicated the value of publication.”
+“As leadership, all I really had to do was make sure that the team members had the time needed to do the writing and, most importantly, telling the team members that they could use that time.”
+“That was usually the hardest part: convincing team members that publishing articles and blog posts is part of their job and therefore they can use work hours to do it. They were so used to having to do that stuff on their own time that it took awhile for them to get out of that habit and to internalise that, no, we really do mean it when we say we support them writing for professional reasons.”
+
+An information security manager says...
+“To me, writing articles and papers are an act of giving back to the community. You may also have the simultaneous goal of getting your name out in the community and building connections for other career opportunities, but all in all, it is a win-win situation.”
+“I try to encourage people to participate in the community in the ways that they are comfortable doing so. Whether that’s writing articles, speaking, or coding.”
+“There are always exceptions, but I find that the people who are able to contribute back and do their job well, are the ones who end up leading and mentoring their team.”
+
+An educator says...
+
+“I encourage our help desk students to tackle topics they love. We work with students of all skill levels, and some articles are of a higher quality than others. But that's OK. What matters is that students get to experience a sense of accomplishment. At its peak, students have a portfolio piece they can use for life after high school.I think the secret to helping students express themselves through writing is to provide the freedom to write on a topic they are passionate about, as well as positive feedback and coaching.”
+
+
+Alex: a senior software engineer
+“I am looking to get promoted to principal software engineer in my job.  My manager informed me that part of earning that promotion would be to increase my public profile. 
+I had previously written a long presentation on cryptography that I have presented internally several times, and in early spring I ran into an old coworker who is now on the editorial team at Opensource.com.  He asked if I thought I might have anything to contribute, and it occurred to me that we could help each other out: he'd get articles and I'd get publicity.”
+
+Elizabeth: a systems engineer
+“I was doing volunteer work in the local Linux community and talked about it to local Linux Users Groups and even a local AM radio station in Philadelphia. Upon getting more involved in the global open source community, I realized there was a desire for me to share these stories more broadly, so I approached my boss about doing more writing, and incorporating some of the lessons we've learned on the job.
+He had no problem with this, and I started writing short articles about Linux and related systems administration topics that looped in my on the job experiences.
+When I had outgrown my role with that first company, I had started to become known for my body of written work and the company found value in that. For the past six years writing has been an intentional and key component of my role, not just on company blogs, but on third party sites as well.”
+
+Michael: a cloud consultant
+“My boss asked me to contribute back to the community, and he suggested me writing or speaking.
+One of the areas of my quarterly performance review is giving back to the community. My manager always stressed the importance of building or creating a personal image, getting myself known to others, because that's what's going to help me in the future, either inside or outside the company.
+Saying this, it motivated me to start writing more.”
+
+Seth: a technical editor
+“In a former job at a visual effects company, it was one of my primary job functions to document both the code and the user interfaces of technology we developed in-house. This was for three reasons:Pragmatism: future employees need to know how to use our technology. The entire VFX industry is moving toward better collaboration, in fact, and the VFX Society maintains vfxplatform.com in an attempt to standardise how studio may work effectively together.Proof: the SciTech (Science & Technology OSCAR awards) awards require extensive documentation to prove VFX innovation. For instance, documentation can demonstrate the difference between having hand-animating a cool effect and having written a complex simulation system to create an effect. Also, the New Zealand government (where this VFX studio is located) offers fiscal grants for significant research in computer science; documentation is required for this.  Street cred and head hunting: ILM (Industrial Light & Magic) once dominated the VFX space. There's nothing wrong with that, but by putting out documentation, other studios can demonstrate to users and developers that they, too, are innovating.”
